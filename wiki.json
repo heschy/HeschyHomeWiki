@@ -1,0 +1,14 @@
+{
+  "meta" {
+    "author": "Henry Schynol",
+    "date": "220225",
+    "web":true
+  },
+  "web" {
+    ""
+  },
+  "doc" {
+    "title":"HeschyHomeWiki",
+    "text":"Is a Database application wich uses the JSON Format. :|newline|:"
+  }
+}
